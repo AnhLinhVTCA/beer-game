@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/beer-game/static/css/main.74675410.chunk.css",
-    "main.js": "/beer-game/static/js/main.7a744048.chunk.js",
-    "main.js.map": "/beer-game/static/js/main.7a744048.chunk.js.map",
-    "runtime-main.js": "/beer-game/static/js/runtime-main.81b37e47.js",
-    "runtime-main.js.map": "/beer-game/static/js/runtime-main.81b37e47.js.map",
-    "static/js/2.ae6f1126.chunk.js": "/beer-game/static/js/2.ae6f1126.chunk.js",
-    "static/js/2.ae6f1126.chunk.js.map": "/beer-game/static/js/2.ae6f1126.chunk.js.map",
-    "index.html": "/beer-game/index.html",
-    "precache-manifest.ee77be086bce9ea76810b4787b54122d.js": "/beer-game/precache-manifest.ee77be086bce9ea76810b4787b54122d.js",
-    "service-worker.js": "/beer-game/service-worker.js",
-    "static/css/main.74675410.chunk.css.map": "/beer-game/static/css/main.74675410.chunk.css.map",
-    "static/js/2.ae6f1126.chunk.js.LICENSE.txt": "/beer-game/static/js/2.ae6f1126.chunk.js.LICENSE.txt"
+    "main.css": "/game-box2d.co/static/css/main.74675410.chunk.css",
+    "main.js": "/game-box2d.co/static/js/main.32b25c36.chunk.js",
+    "main.js.map": "/game-box2d.co/static/js/main.32b25c36.chunk.js.map",
+    "runtime-main.js": "/game-box2d.co/static/js/runtime-main.37f9413b.js",
+    "runtime-main.js.map": "/game-box2d.co/static/js/runtime-main.37f9413b.js.map",
+    "static/js/2.529863a8.chunk.js": "/game-box2d.co/static/js/2.529863a8.chunk.js",
+    "static/js/2.529863a8.chunk.js.map": "/game-box2d.co/static/js/2.529863a8.chunk.js.map",
+    "index.html": "/game-box2d.co/index.html",
+    "precache-manifest.8696f7fa62b96d338a32c5a51fe8df9f.js": "/game-box2d.co/precache-manifest.8696f7fa62b96d338a32c5a51fe8df9f.js",
+    "service-worker.js": "/game-box2d.co/service-worker.js",
+    "static/css/main.74675410.chunk.css.map": "/game-box2d.co/static/css/main.74675410.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.81b37e47.js",
-    "static/js/2.ae6f1126.chunk.js",
+    "static/js/runtime-main.37f9413b.js",
+    "static/js/2.529863a8.chunk.js",
     "static/css/main.74675410.chunk.css",
-    "static/js/main.7a744048.chunk.js"
+    "static/js/main.32b25c36.chunk.js"
   ]
 }
