@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beer-game/static/css/main.74675410.chunk.css",
+    "main.js": "/beer-game/static/js/main.7a744048.chunk.js",
+    "main.js.map": "/beer-game/static/js/main.7a744048.chunk.js.map",
+    "runtime-main.js": "/beer-game/static/js/runtime-main.81b37e47.js",
+    "runtime-main.js.map": "/beer-game/static/js/runtime-main.81b37e47.js.map",
+    "static/js/2.ae6f1126.chunk.js": "/beer-game/static/js/2.ae6f1126.chunk.js",
+    "static/js/2.ae6f1126.chunk.js.map": "/beer-game/static/js/2.ae6f1126.chunk.js.map",
+    "index.html": "/beer-game/index.html",
+    "precache-manifest.ee77be086bce9ea76810b4787b54122d.js": "/beer-game/precache-manifest.ee77be086bce9ea76810b4787b54122d.js",
+    "service-worker.js": "/beer-game/service-worker.js",
+    "static/css/main.74675410.chunk.css.map": "/beer-game/static/css/main.74675410.chunk.css.map",
+    "static/js/2.ae6f1126.chunk.js.LICENSE.txt": "/beer-game/static/js/2.ae6f1126.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b37e47.js",
+    "static/js/2.ae6f1126.chunk.js",
+    "static/css/main.74675410.chunk.css",
+    "static/js/main.7a744048.chunk.js"
+  ]
+}
